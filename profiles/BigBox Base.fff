@@ -1164,7 +1164,7 @@
 		<extraRestartDistance>0</extraRestartDistance>
 		<retractionZLift>0.25</retractionZLift>
 		<retractionSpeed>4200</retractionSpeed>
-		<useCoasting>0</useCoasting
+		<useCoasting>0</useCoasting>
 		<coastingDistance>0.2</coastingDistance>
 		<useWipe>0</useWipe>
 		<wipeDistance>5</wipeDistance>
