@@ -1170,20 +1170,20 @@
 		<wipeDistance>5</wipeDistance>
   	</extruder>
   	<extruder name="Extruder 1 (right)">
-  	<toolheadNumber>1</toolheadNumber>
-  	<diameter>0.4</diameter>
-  	<autoWidth>1</autoWidth>
-  	<width>0.48</width>
-  	<extrusionMultiplier>1</extrusionMultiplier>
-  	<useRetract>1</useRetract>
-  	<retractionDistance>1.1</retractionDistance>
-  	<extraRestartDistance>0</extraRestartDistance>
-  	<retractionZLift>0.25</retractionZLift>
-  	<retractionSpeed>4200</retractionSpeed>
-  	<useCoasting>0</useCoasting>
-  	<coastingDistance>0.2</coastingDistance>
-  	<useWipe>0</useWipe>
-  	<wipeDistance>5</wipeDistance>
+		<toolheadNumber>1</toolheadNumber>
+		<diameter>0.4</diameter>
+		<autoWidth>1</autoWidth>
+		<width>0.48</width>
+		<extrusionMultiplier>1</extrusionMultiplier>
+		<useRetract>1</useRetract>
+		<retractionDistance>1.1</retractionDistance>
+		<extraRestartDistance>0</extraRestartDistance>
+		<retractionZLift>0.25</retractionZLift>
+		<retractionSpeed>4200</retractionSpeed>
+		<useCoasting>0</useCoasting>
+		<coastingDistance>0.2</coastingDistance>
+		<useWipe>0</useWipe>
+		<wipeDistance>5</wipeDistance>
   	</extruder>
   	<firstLayerWidthPercentage>130</firstLayerWidthPercentage>
   	<firstLayerUnderspeed>0.5</firstLayerUnderspeed>
