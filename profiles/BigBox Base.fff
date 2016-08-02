@@ -87,17 +87,17 @@
   <overlapInfillAngles>0</overlapInfillAngles>
   <generateSupport>0</generateSupport>
   <supportExtruder>0</supportExtruder>
-  <supportInfillPercentage>35</supportInfillPercentage>
-  <supportExtraInflation>0.5</supportExtraInflation>
+  <supportInfillPercentage>30</supportInfillPercentage>
+  <supportExtraInflation>0.0</supportExtraInflation>
   <denseSupportLayers>0</denseSupportLayers>
-  <denseSupportInfillPercentage>75</denseSupportInfillPercentage>
+  <denseSupportInfillPercentage>70</denseSupportInfillPercentage>
   <supportLayerInterval>1</supportLayerInterval>
-  <supportHorizontalPartOffset>0.15</supportHorizontalPartOffset>
-  <supportUpperSeparationLayers>0</supportUpperSeparationLayers>
-  <supportLowerSeparationLayers>0</supportLowerSeparationLayers>
-  <supportType>1</supportType>
-  <supportGridSpacing>1</supportGridSpacing>
-  <maxOverhangAngle>50</maxOverhangAngle>
+  <supportHorizontalPartOffset>0.30</supportHorizontalPartOffset>
+  <supportUpperSeparationLayers>1</supportUpperSeparationLayers>
+  <supportLowerSeparationLayers>1</supportLowerSeparationLayers>
+  <supportType>0</supportType>
+  <supportGridSpacing>4</supportGridSpacing>
+  <maxOverhangAngle>45</maxOverhangAngle>
   <supportAngles>45,-45</supportAngles>
   <temperatureController name="Extruder 0 (left)">
     <temperatureNumber>0</temperatureNumber>
