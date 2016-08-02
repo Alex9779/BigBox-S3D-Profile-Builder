@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <profile name="BigBox Base" version="2016-05-21 23:40:55" app="S3D-Software 3.1.0">
   <baseProfile>Generic Dual Extrusion Profile</baseProfile>
-  <printMaterial>PLA</printMaterial>
+  <printMaterial>Generic PLA</printMaterial>
   <printQuality>Medium/Fast</printQuality>
   <printExtruders>Extruder 0 (left) only</printExtruders>
   <extruder name="Extruder 0 (left)">
