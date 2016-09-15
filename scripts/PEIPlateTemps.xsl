@@ -15,14 +15,6 @@
                         <xsl:value-of select="'200'"/>
                     </xsl:attribute>
                 </xsl:element>
-                <xsl:element name="setpoint">
-                    <xsl:attribute name="layer">
-                        <xsl:value-of select="'3'"/>
-                    </xsl:attribute>
-                    <xsl:attribute name="temperature">
-                        <xsl:value-of select="'190'"/>
-                    </xsl:attribute>
-                </xsl:element>
             </xsl:when>
             <xsl:otherwise>
                 <xsl:apply-templates/>
@@ -40,14 +32,6 @@
                     </xsl:attribute>
                     <xsl:attribute name="temperature">
                         <xsl:value-of select="'62'"/>
-                    </xsl:attribute>
-                </xsl:element>
-                <xsl:element name="setpoint">
-                    <xsl:attribute name="layer">
-                        <xsl:value-of select="'3'"/>
-                    </xsl:attribute>
-                    <xsl:attribute name="temperature">
-                        <xsl:value-of select="'55'"/>
                     </xsl:attribute>
                 </xsl:element>
             </xsl:when>
