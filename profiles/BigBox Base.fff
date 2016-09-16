@@ -404,7 +404,7 @@
       <toolheadNumber>1</toolheadNumber>
       <autoWidth>0</autoWidth>
       <width>0.42</width>
-      <extrusionMultiplier>0.99</extrusionMultiplier>
+      <extrusionMultiplier>0.95</extrusionMultiplier>
       <useRetract>1</useRetract>
       <retractionDistance>1.5</retractionDistance>
       <extraRestartDistance>0</extraRestartDistance>
